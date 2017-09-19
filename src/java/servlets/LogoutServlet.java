@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
  *
  * @author 608964
  */
-public class logout extends HttpServlet {
+public class LogoutServlet extends HttpServlet {
     
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
